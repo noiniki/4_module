@@ -3,4 +3,4 @@ def stroka(string):
         print(True)
     else:
         print(False)
-stroka('лепсспел')
+stroka('helloworld')
