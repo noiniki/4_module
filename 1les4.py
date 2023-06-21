@@ -8,7 +8,7 @@ def strcounter(string):
         print(symbol, counter)
 
 strcounter('bigbotlolchek')
-'''
+
 
 def strcounter(string):
     syms_counter = {}
@@ -17,3 +17,5 @@ def strcounter(string):
     print(syms_counter)
 
 strcounter('aaaaaaaaaabfdddddddddd')
+'''
+
