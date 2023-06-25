@@ -22,3 +22,10 @@ h1 {
     color: sandybrown;
     font-family: Courier New;
 }
+
+.paragraph-4 {
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: green 4px -4px 5px;
+}
