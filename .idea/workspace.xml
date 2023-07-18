@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6c76e4c-5afd-4fd5-ab00-71fb1e0a6520" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/advertisment/app_advertisment/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advertisment/app_lesson_4/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/4 модуль.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advertisment/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertisment/advertisment/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/advertisment/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertisment/app_advertisment/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/app_advertisment/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertisment/app_advertisment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/app_advertisment/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maryn/Desktop/пайтон/4 модуль&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/maryn/Desktop/пайтон/4 модуль",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
