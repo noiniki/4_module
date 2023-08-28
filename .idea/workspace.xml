@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6c76e4c-5afd-4fd5-ab00-71fb1e0a6520" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/advertisment/app_advertisment/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertisment/app_advertisment/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/app_advertisment/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertisment/app_advertisment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/app_advertisment/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertisment/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertisment/templates/advertisement-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/templates/advertisement-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertisment/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertisment/templates/top-sellers.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertisment/templates/top-sellers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
